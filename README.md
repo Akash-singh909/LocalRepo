@@ -1,1 +1,1 @@
-# this is a practice to make new depository
+# this is a practice to make a new depository
